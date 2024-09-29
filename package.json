@@ -122,3 +122,4 @@
     "*.{ts,tsx}": "eslint --cache --fix"
   }
 }
+.
